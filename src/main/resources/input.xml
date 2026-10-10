@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+    <document id="501">
+        <title>Financial Report 2025</title>
+        <department>Accounting</department>
+        <status>PENDING</status>
+    </document>
+    <document id="502">
+        <title>Employee Guidelines</title>
+        <department>HR</department>
+        <status>APPROVED</status>
+    </document>
+</documents>
